@@ -1,2 +1,24 @@
 # DiceTerraria
-Test Huge Modpack for terraria
+
+### Main Mods
+Calamity 
+Spooky Mod
+Spirit Mod
+DawnMod
+Joost
+Terraria Overhoul
+Lunar Veil
+Mod of redemtion
+Realms of Rlyeh
+Fargo Souls
+Coralite
+Gloory 
+-+ Eveglow
+
+
+### For test
+DragonLens
+
+### Multiplayer
+InfraSonic
+
