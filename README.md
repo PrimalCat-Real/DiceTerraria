@@ -16,6 +16,8 @@ Calamity
 - Shadow of abadon
 - Secrects of Shadows
 - Homeward Journey
+- macrocosmos
+- black clover
 
 ### For test
 DragonLens
