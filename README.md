@@ -11,13 +11,13 @@ Calamity
 - Realms of Rlyeh
 - Fargo Souls
 - Coralite
-- Gloory 
 - Eveglow
 - Shadow of abadon
 - Secrects of Shadows
 - Homeward Journey
 - macrocosmos
-- black clover
+- afk pets
+- gensokyo
 
 ### For test
 DragonLens
