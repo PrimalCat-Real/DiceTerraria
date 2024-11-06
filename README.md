@@ -29,7 +29,7 @@
 - Conquest mod
 - Infernum
 - Split (если выйдет)
-- Ebonias
+- Ebonia
 
 ### For test
 DragonLens
