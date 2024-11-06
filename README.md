@@ -4,21 +4,18 @@
 - Calamity 
 - Spooky Mod
 - Spirit Mod
-- DawnMod
-- Terraria Overhoul
-- Lunar Veil
+- Lunar Veil (порезать файлы музыки)
 - Mod of redemtion
 - Realms of Rlyeh
 - Fargo Souls
-- Coralite
-- Eveglow
-- Shadow of abadon
+- Coralite 
+- Eveglow ( проверить конфликты )
+- Shadow of abadon ( проверить конфликты)
 - Secrects of Shadows
 - Homeward Journey
-- macrocosmos
-- afk pets
-- gensokyo
-- DormantDawn
+- macrocosmos (проверить конфликты)
+- afk pets (под вопросом)
+- DormantDawn ( проаерить на конфликты)
 - fractues of penumbra
 - you
 - wrath of good
@@ -26,7 +23,7 @@
 - Aequs
 - anime vanity
 - sloome
-- Conquest mod
+- Conquest (под вопросом)
 - Infernum
 - Split (если выйдет)
 - Ebonia
