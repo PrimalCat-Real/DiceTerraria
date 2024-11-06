@@ -12,6 +12,7 @@
 - Eveglow ( проверить конфликты )
 - Shadow of abadon ( проверить конфликты)
 - Secrects of Shadows
+- star light river
 - Homeward Journey
 - macrocosmos (проверить конфликты)
 - afk pets (под вопросом)
