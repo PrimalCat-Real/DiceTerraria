@@ -36,3 +36,6 @@ DragonLens
 ### Multiplayer
 InfraSonic
 
+### info
+boss check list
+census
