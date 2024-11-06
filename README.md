@@ -27,6 +27,7 @@
 - Infernum
 - Split (если выйдет)
 - Ebonia
+- Dawn rising mod (проверить на конфликты)
 
 ### For test
 DragonLens
