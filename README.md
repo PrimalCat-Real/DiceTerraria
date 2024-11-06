@@ -28,6 +28,7 @@
 - Infernum
 - Split (если выйдет)
 - Ebonia
+- stars above
 - Dawn rising mod (проверить на конфликты)
 
 ### For test
