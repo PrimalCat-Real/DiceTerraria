@@ -1,7 +1,7 @@
 # DiceTerraria
 
 ### Main Mods
-Calamity 
+- Calamity 
 - Spooky Mod
 - Spirit Mod
 - DawnMod
@@ -19,6 +19,16 @@ Calamity
 - afk pets
 - gensokyo
 - DormantDawn
+- fractues of penumbra
+- you
+- wrath of good
+- accesories +
+- Aequs
+- anime vanity
+- sloome
+- Conquest mod
+- Infernum
+- Split (если выйдет)
 
 ### For test
 DragonLens
